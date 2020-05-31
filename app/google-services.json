@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "449273353155",
+    "firebase_url": "https://fireserver-7b2e2.firebaseio.com",
+    "project_id": "fireserver-7b2e2",
+    "storage_bucket": "fireserver-7b2e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449273353155:android:6e32af3a2ca1dbe4e16376",
+        "android_client_info": {
+          "package_name": "com.example.karol.bookrental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449273353155-q361esrkd7as8hac66qfodg0qr940j8j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfPscSL47h3odmt2Aps8YiiS1XtRIv06E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449273353155-q361esrkd7as8hac66qfodg0qr940j8j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

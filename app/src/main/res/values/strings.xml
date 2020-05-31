@@ -1,3 +1,33 @@
 <resources>
-    <string name="app_name">BookRental</string>
+    <string name="app_name">Wymiana Ksiazek</string>
+    <string name="email">E-Mail</string>
+    <string name="haslo">Haslo</string>
+    <string name="my_offers">Moje oferty</string>
+    <string name="change_password">Zmien haslo</string>
+    <string name="log_out">Wyloguj</string>
+    <string name="zaloguj">Zaloguj</string>
+    <string name="zarejestruj">Zarejestruj</string>
+    <string name="miejscowosc">Miejscowosc</string>
+    <string name="adres">Adres kontaktowy</string>
+    <string name="cofnij">Cofnij</string>
+    <string name="kategorie">Wybierz szukaną kategorię:</string>
+    <string name="fantastyka">fantastyka</string>
+    <string name="sensacyjne">sensacyjne</string>
+    <string name="horror">horror</string>
+    <string name="kryminal">kryminal</string>
+    <string name="romans">romans</string>
+    <string name="inne">inne</string>
+    <string name="dodaj">Dodaj ofertę</string>
+    <string name="tytul">Tytul</string>
+    <string name="za">Interesuje mnie w zamian:</string>
+    <string name="or">Lub</string>
+    <string name="info">Informacje dodatkowe, konkretny autor, itd.</string>
+    <string name="zatwierdz">Zatwierdz</string>
+    <string name="szukaj">Szukaj oferty</string>
+    <string name="forgot_password">Zapomnialem hasla</string>
+    <string name="password_send_to_email">Password send to your email</string>
+    <string name="email_required">Email is required</string>
+    <string name="my_profile">Moj profil</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="menu">menu</string>
 </resources>

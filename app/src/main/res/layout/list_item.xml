@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/nazwa"
+        android:layout_width="285dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="5dp"
+        android:paddingLeft="8dp"
+        android:text="NazwaOgloszenia"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"
+        android:textSize="16sp"
+        android:layout_toLeftOf="@id/kontaktPrzycisk"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/zainteresowany"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/nazwa"
+        android:paddingLeft="8dp"
+        android:text="Zainteresowany"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"
+        android:layout_toLeftOf="@id/kontaktPrzycisk"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/miejscowosc"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/zainteresowany"
+        android:paddingLeft="8dp"
+        android:text="Miejscowosc"
+        android:layout_marginBottom="5dp"
+        android:textAppearance="@style/TextAppearance.AppCompat.Title"
+        android:layout_toLeftOf="@id/kontaktPrzycisk"
+        android:textSize="14sp" />
+
+    <Button
+        android:id="@+id/kontaktPrzycisk"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/nazwa"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="5dp"
+        android:text="szczegóły" />
+
+</RelativeLayout>
